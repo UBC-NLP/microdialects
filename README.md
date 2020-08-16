@@ -14,11 +14,11 @@ Documenting work on micro-dialects
 |-------------------- | ----------------------- |
 
 
-Sentence: يخرب بيت مطنك. غورت الرادل في داهية.
+**Sentence:** ```يخرب بيت مطنك. غورت الرادل في داهية.```
 
-Transliteration: yxrb byt mTnk. γwrt AlrAdl fy dAhyħ.
+**Transliteration:** ```yxrb byt mTnk. γwrt AlrAdl fy dAhyħ.```
 
-Eng: What a devil! You screwed the guy.
+**Eng:** ```What a devil! You screwed the guy.```
 
 ---
 
