@@ -5,9 +5,9 @@ Documenting work on micro-dialects
 
  *Note:* Transliteration is in Habash-Soudi-Buckwalter
 
+---
 
-### (1) Example of correctly identified micro-dialect
-
+### (1) An example of ```correctly``` identified micro-dialect
   
 ---
 
@@ -29,6 +29,10 @@ Documenting work on micro-dialects
 ![image_25](https://github.com/UBC-NLP/microdialects/blob/master/attenttion_viz/25.png)
 
 
+---
 
+### (2) An example of ```wrongly``` identified micro-dialect
+  
+---
 
 ---
