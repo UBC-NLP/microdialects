@@ -6,7 +6,7 @@ Documenting work on micro-dialects
  *Note:* Transliteration is in Habash-Soudi-Buckwalter
 
 
-### (1) Example of Correctly Identified Micro-Dialect
+### (1) Example of correctly identified micro-dialect
 
   
 ---
