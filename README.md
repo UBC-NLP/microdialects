@@ -23,5 +23,5 @@ Documenting work on micro-dialects
 
 ---
 
-![GitHub Logo](/attention_viz/25.png)
+![Image](https://github.com/UBC-NLP/microdialects/blob/master/attenttion_viz/25.png)
 
