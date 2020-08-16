@@ -3,11 +3,12 @@ Documenting work on micro-dialects
 
 ## Attention Viz:
 
-### Example of Correctly Identified Micro-Dialect
-
- 
  *Note:* Transliteration is in Habash-Soudi-Buckwalter
- 
+
+
+### (1) Example of Correctly Identified Micro-Dialect
+
+  
 ---
 
 | Gold: Asuit (Egypt) | Predicted: Asuit (Egypt)|
@@ -22,4 +23,5 @@ Documenting work on micro-dialects
 
 ---
 
+![GitHub Logo](/attention_viz/25.png)
 
