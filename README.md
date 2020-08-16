@@ -11,8 +11,7 @@ Documenting work on micro-dialects
 ---
 
 | Gold: Asuit (Egypt) | Predicted: Asuit (Egypt)|
-
----
+|-------------------- | ----------------------- |
 
 
 Sentence: يخرب بيت مطنك. غورت الرادل في داهية.
@@ -20,5 +19,7 @@ Sentence: يخرب بيت مطنك. غورت الرادل في داهية.
 Transliteration: yxrb byt mTnk. γwrt AlrAdl fy dAhyħ.
 
 Eng: What a devil! You screwed the guy.
+
+---
 
 
