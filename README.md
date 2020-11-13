@@ -7,7 +7,10 @@ To access the dataset and model of the paper , please fill out [this registratio
 We will provide the following datasets and models after submiting the registration form. 
 1. We will offer the TRAIN and TEST datasets of 3 splits (i.e., A, B, and C) for each of the narrow, medium, and wide settings. Table 1 shows the distribution of datasets. According to the Twitter distribution restriction, we only provided the tweet IDs and labels of our data. Please acquire tweet content via [Twitter API](https://developer.twitter.com/en). 
 
-![image_1](https://github.com/UBC-NLP/microdialects/blob/master/image/split3_dis.png)
+<p>
+    <img src="https://github.com/UBC-NLP/microdialects/blob/master/image/split3_dis.png" alt>
+    <em>image_caption</em>
+</p>
 
 2. The best fine-tuned single-task MARBERTA models of three tasks under each setting. We only provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Table 2. shows the performances of the models. 
 
