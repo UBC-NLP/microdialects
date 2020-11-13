@@ -1,9 +1,10 @@
-# microdialects
-Documenting work on micro-dialects
+# Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment
 
-To access the dataset and model of the paper "Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment" (Abdul-Mageed et al., 2020), please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
+We provide our dataset and models of "Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment" (Abdul-Mageed et al., 2020). 
 
-We will provide the following datasets and models when you submit this registration form. 
+To access the dataset and model of the paper , please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
+
+We will provide the following datasets and models after submiting the registration form. 
 1. We will offer the TRAIN and TEST datasets of 3 splits (i.e., A, B, and C) for each of the narrow, medium, and wide settings. Table 1 shows the distribution of datasets. According to the Twitter distribution restriction, we only provided the tweet IDs and labels of our data. Please acquire tweet content via [Twitter API](https://developer.twitter.com/en). 
 
 2. The best fine-tuned single-task MARBERTA models of three tasks under each setting. We only provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Table 2. shows the performances of the models. 
