@@ -9,6 +9,7 @@ We will provide the following datasets and models after submiting the registrati
 
 <p>
     <img src="https://github.com/UBC-NLP/microdialects/blob/master/image/split3_dis.png" alt>
+    
     <em>TABLE 1. TRAIN and TEST data sizes and label distribution (in city, state, and country) across the 3 splits for each of the narrow, medium, and wide settings</em>
 </p>
 
