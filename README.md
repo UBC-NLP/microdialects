@@ -21,7 +21,7 @@ We will provide the following datasets and models after submiting the registrati
 <p align="center"> TABLE 2. Model Performance on TEST set. For each task, we provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Epoch indicates the best number of the epoch. 
 </p>
 
-
+----
 Citing Guide - please follow the following citation guide if you use any of this work in your research:
 ```
 @inproceedings{mageed-etal-2020-micro,
