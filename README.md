@@ -1,6 +1,6 @@
 # Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment
 
-We provide our dataset and models of "Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment" (Abdul-Mageed et al., 2020). 
+This repo provides our dataset and models used for ["Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment"](https://arxiv.org/abs/2010.04900) (Abdul-Mageed et al., 2020). 
 
 To access the dataset and model of the paper , please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
 
@@ -19,6 +19,8 @@ Citing Guide - please follow the following citation guide if you use any of this
     year = {2020},
 }
 ```
+
+----
 ## Attention Viz:
 
  *Note:* Transliteration is in Habash-Soudi-Buckwalter
