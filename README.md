@@ -1,6 +1,23 @@
 # microdialects
 Documenting work on micro-dialects
 
+To access the dataset and model of the paper "Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment" (Abdul-Mageed et al., 2020), please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
+
+We will provide the following datasets and models when you submit this registration form. 
+1. We will offer the TRAIN and TEST datasets of 3 splits (i.e., A, B, and C) for each of the narrow, medium, and wide settings. Table 1 shows the distribution of datasets. According to the Twitter distribution restriction, we only provided the tweet IDs and labels of our data. Please acquire tweet content via [Twitter API](https://developer.twitter.com/en). 
+
+2. The best fine-tuned single-task MARBERTA models of three tasks under each setting. We only provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Table 2. shows the performances of the models. 
+
+
+Citing Guide - please follow the following citation guide if you use any of this work in your research:
+```
+@inproceedings{mageed-etal-2020-micro,
+    title ={{Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments}},
+    author = {Abdul-Mageed, Muhammad and Zhang, Chiyu and Elmadany, AbdelRahim and Unga, Lyle},
+    booktitle ={{Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)}},
+    year = {2020},
+}
+```
 ## Attention Viz:
 
  *Note:* Transliteration is in Habash-Soudi-Buckwalter
