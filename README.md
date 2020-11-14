@@ -2,7 +2,7 @@
 
 This repo provides our dataset and models used for ["Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment"](https://arxiv.org/abs/2010.04900) (Abdul-Mageed et al., 2020). 
 
-To access the dataset and model of the paper , please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
+The datasets and models are only distributed for research purpose. To access the dataset and model of the paper , please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
 
 We will provide the following datasets and models after submiting the registration form. 
 1. We will offer the TRAIN and TEST datasets of 3 splits (i.e., A, B, and C) for each of the narrow, medium, and wide settings. Table 1 shows the distribution of datasets. According to the Twitter distribution restriction, we only provided the tweet IDs and labels of our data. Please acquire tweet content via [Twitter API](https://developer.twitter.com/en). 
