@@ -24,11 +24,19 @@ We will provide the following datasets and models after submiting the registrati
 ----
 Citing Guide - please follow the following citation guide if you use any of this work in your research:
 ```
-@inproceedings{mageed-etal-2020-micro,
-    title ={{Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments}},
-    author = {Abdul-Mageed, Muhammad and Zhang, Chiyu and Elmadany, AbdelRahim and Unga, Lyle},
-    booktitle ={{Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)}},
-    year = {2020},
+@inproceedings{abdul-mageed-etal-2020-toward,
+    title = "Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments",
+    author = "Abdul-Mageed, Muhammad  and
+      Zhang, Chiyu  and
+      Elmadany, AbdelRahim  and
+      Ungar, Lyle",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.472",
+    pages = "5855--5876",
 }
 ```
 
