@@ -35,7 +35,8 @@ Citing Guide - please follow the following citation guide if you use any of this
 ----
 ## Attention Viz:
 We visualize attention in ~250 examples from our TEST set using our single-task MARBERT-narrow model fine-tuned in split B in Table 1. We provide visualizations from two examples here. We also collect more examples [here](https://github.com/UBC-NLP/microdialects/tree/master/attenttion_viz).
- *Note:* Transliteration is in Habash-Soudi-Buckwalter
+
+*Note:* Transliteration is in Habash-Soudi-Buckwalter
 
 ---
 
