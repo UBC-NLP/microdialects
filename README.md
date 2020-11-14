@@ -13,7 +13,7 @@ We will provide the following datasets and models after submiting the registrati
 <p align="center"> TABLE 1. TRAIN and TEST data sizes and label distribution (in city, state, and country) across the 3 splits for each of the narrow, medium, and wide settings
 </p>
 
-2. The best fine-tuned single-task MARBERTA models of three tasks under each setting. We only provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Table 2. shows the performances of the models. 
+2. The best fine-tuned single-task MARBERTA models of three tasks under each setting. We only provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Table 2. shows the performances of the models. We provide a instruction to help you load the checkpoint and use the fine-tuned model for inference. Please check the [notebook](https://github.com/UBC-NLP/microdialects/blob/master/inference_example/Load_MARBERT.ipynb) and a [sample tsv file](https://github.com/UBC-NLP/microdialects/blob/master/inference_example/inference_sample.tsv) for model inference. 
 
 <p align="center">
     <img src="https://github.com/UBC-NLP/microdialects/blob/master/image/marbert_best.png" alt>
