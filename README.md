@@ -1,11 +1,12 @@
 # Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment
 
-This repo provides our dataset and models used for ["Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment"](https://arxiv.org/abs/2010.04900) (Abdul-Mageed et al., 2020). 
+This repo provides our dataset and models used for the EMNLP 2020 paper ["Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment"](https://arxiv.org/abs/2010.04900) (Abdul-Mageed et al., 2020). 
 
-The datasets and models are only distributed for research purpose. To access the dataset and model of the paper , please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
+The datasets and models are distributed exclusively for research purposes. To access the dataset and models described in the paper, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
 
-We will provide the following datasets and models after submiting the registration form. 
-1. We will offer the TRAIN and TEST datasets of 3 splits (i.e., A, B, and C) for each of the narrow, medium, and wide settings. Table 1 shows the distribution of datasets. According to the Twitter distribution restriction, we only provided the tweet IDs and labels of our data. Please acquire tweet content via [Twitter API](https://developer.twitter.com/en). 
+We will provide the following datasets and models after you fill in and submit the form:
+
+1. The TRAIN and TEST sets of the 3 splits (i.e., A, B, and C) for each of the ```narrow```, ```medium```, and ```wide``` settings shown in Table 1 below. Adhereing to the Twitter distribution conditions, we provided the data in the form of tweet IDs and labels. To download the tweets, please acquire access via the [Twitter API](https://developer.twitter.com/en). 
 
 <p align="center">
     <img src="https://github.com/UBC-NLP/microdialects/blob/master/image/split3_dis.png" alt>
@@ -13,7 +14,7 @@ We will provide the following datasets and models after submiting the registrati
 <p align="center"> TABLE 1. TRAIN and TEST data sizes and label distribution (in city, state, and country) across the 3 splits for each of the narrow, medium, and wide settings
 </p>
 
-2. The best fine-tuned single-task MARBERTA models of three tasks under each setting. We only provide the model that obtained the best F1 score across 3 splits (i.e., A, B, C) under each setting. Table 2. shows the performances of the models. We provide a instruction to help you load the checkpoint and use the fine-tuned model for inference. Please check the [notebook](https://github.com/UBC-NLP/microdialects/blob/master/inference_example/Load_MARBERT.ipynb) and a [sample tsv file](https://github.com/UBC-NLP/microdialects/blob/master/inference_example/inference_sample.tsv) for model inference. 
+2. The best fine-tuned single-task MARBERTA model (based on best F1 score) from the 3 runs in the paper (i.e., A, B, C) for each of the 3 settings ```narrow```, ```medium```, and ```wide```. We provide instructions to load the checkpoints and use the fine-tuned model for inference in this [notebook](https://github.com/UBC-NLP/microdialects/blob/master/inference_example/Load_MARBERT.ipynb). Please also check this [sample tsv file](https://github.com/UBC-NLP/microdialects/blob/master/inference_example/inference_sample.tsv) that can be used for model inference. 
 
 <p align="center">
     <img src="https://github.com/UBC-NLP/microdialects/blob/master/image/marbert_best.png">
@@ -22,7 +23,7 @@ We will provide the following datasets and models after submiting the registrati
 </p>
 
 ----
-Citing Guide - please follow the following citation guide if you use any of this work in your research:
+Citation Guide - please follow the following citation guide if you use any of our datasets or models:
 ```
 @inproceedings{abdul-mageed-etal-2020-toward,
     title = "Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments",
@@ -42,7 +43,7 @@ Citing Guide - please follow the following citation guide if you use any of this
 
 ----
 ## Attention Viz:
-We visualize attention in ~250 examples from our TEST set using our single-task MARBERT-narrow model fine-tuned in split B in Table 1. We provide visualizations from two examples here. We also collect more examples [here](https://github.com/UBC-NLP/microdialects/tree/master/attenttion_viz). All the visualizations are created via [bertviz](https://github.com/jessevig/bertviz) tool.
+We visualize attention in ~250 examples from our TEST set using our single-task MARBERT-narrow model fine-tuned in split B in Table 1. We provide visualizations from two examples here. We also collect more examples [here](https://github.com/UBC-NLP/microdialects/tree/master/attenttion_viz). All the visualizations are created using the [bertviz](https://github.com/jessevig/bertviz) tool.
 
 *Note:* Transliteration is in Habash-Soudi-Buckwalter
 
