@@ -2,7 +2,7 @@
 
 This repo provides our dataset and models used for the EMNLP 2020 paper ["Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environment"](https://arxiv.org/abs/2010.04900) (Abdul-Mageed et al., 2020). 
 
-The datasets and models are distributed exclusively for research purposes. To access the dataset and models described in the paper, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). 
+The datasets and models are distributed exclusively for research purposes. To access the dataset and models described in the paper, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSeYw9oQ01fHzeIj_3tdrZu9m8yj5nU7L5IZ8iZLj2zQyHK6FQ/viewform?usp=sf_link). If you do, it would be nice if you also `star` our repo so that others can find it quicker. 
 
 We will provide the following datasets and models after you fill in and submit the form:
 
